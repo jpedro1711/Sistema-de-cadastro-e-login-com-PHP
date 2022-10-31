@@ -35,7 +35,7 @@
           $_SESSION['msg'] = "<div class='alert alert-success' role='alert'>
           Usuário cadastrado com sucesso
         </div>";
-          header('Location: index.php');
+          header('Location: ../login/login.php');
         }
         else {
           $_SESSION['msg'] = "<div class='alert alert-danger' role='alert'>
