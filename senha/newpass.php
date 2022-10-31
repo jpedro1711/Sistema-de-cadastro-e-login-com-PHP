@@ -40,25 +40,25 @@
     <div class="row mb-3 input-field">
       <label for="inputEmail3" class="col-sm-2 col-form-label">E-mail</label>
       <div class="col-sm-10">
-        <input type="email" class="form-control" id="inputEmail3" name="email">
+        <input type="email" class="form-control" id="inputEmail3" autocomplete="off" name="email">
       </div>
     </div>
     <div class="row mb-3 input-field">
       <label for="inputEmail3" class="col-sm-2 col-form-label">Senha Atual</label>
       <div class="col-sm-10">
-        <input type="password" class="form-control" id="inputEmail3" name="senha">
+        <input type="password" class="form-control" id="inputEmail3" autocomplete="off" name="senha">
       </div>
     </div>
     <div class="row mb-3 input-field">
       <label for="inputPassword3" class="col-sm-2 col-form-label">Nova Senha</label>
       <div class="col-sm-10">
-        <input type="password" class="form-control" id="inputPassword3" name="novaSenha">
+        <input type="password" class="form-control" id="inputPassword3" autocomplete="off" name="novaSenha">
       </div>
     </div>
     <div class="row mb-3 input-field">
       <label for="inputPassword3" class="col-sm-2 col-form-label">Confirme a nova senha</label>
       <div class="col-sm-10">
-        <input type="password" class="form-control" id="inputPassword3" name="confNovaSenha">
+        <input type="password" class="form-control" id="inputPassword3" autocomplete="off" name="confNovaSenha">
       </div>
     </div>
     <div class="btnGroup">
